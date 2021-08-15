@@ -6,3 +6,9 @@ input {
   padding: 5px;
   width: 50%;
 }
+
+body {
+  margin: 20px;
+  border: 2px solid red;
+  padding: 20px;
+}

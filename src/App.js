@@ -8,7 +8,12 @@ export default function App() {
     "😒": "annoyed",
     "🙄": "eyeroll",
     "😏": "smirk",
-    "🥰": "loved"
+    "🥰": "loved",
+    "🥵": "hot",
+    "😛": "tongue out",
+    "🥱": "yawning",
+    "😭": "crying",
+    "😈": "evil"
   };
   var emojiWeKnow = Object.keys(emojiList);
   var [inputEvent, setEvent] = useState("");
